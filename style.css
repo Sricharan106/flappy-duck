@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'reg';
+    src: url('./assets/BaiJamjuree-Bold.ttf');
+}
+
+body {
+    font-family: 'reg';
+    text-align: center;
+    background-color: #000;
+}
+
+#board {
+    background-color: green;
+}
